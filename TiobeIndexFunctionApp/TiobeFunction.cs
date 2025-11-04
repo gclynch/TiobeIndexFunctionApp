@@ -5,7 +5,7 @@
 // curl -v http://localhost:7071/api/TiobeIndex
 
 // configure CORS in portal for function app to allow CORS request from Blazor app
-// e.g. http://localhost:55850, https://tiobeindex-gc.azurewebsites.net
+// e.g. http://localhost:55850, https://tiobeindexgc.azurewebsites.net
 // or *
 //
 
